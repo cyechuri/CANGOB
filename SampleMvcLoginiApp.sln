@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleMvcLoginiApp", "SampleMvcLoginiApp\SampleMvcLoginiApp.csproj", "{8E3B0BD7-DB36-4298-BA9C-8449D320AB88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3B0BD7-DB36-4298-BA9C-8449D320AB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3B0BD7-DB36-4298-BA9C-8449D320AB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3B0BD7-DB36-4298-BA9C-8449D320AB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3B0BD7-DB36-4298-BA9C-8449D320AB88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E768322-7ADB-4094-8938-C926C20C2FD0}
+	EndGlobalSection
+EndGlobal
